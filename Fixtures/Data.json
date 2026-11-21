@@ -1,0 +1,13 @@
+{
+    "credentials":{
+    "username": "standard_user",
+    "password": "secret_sauce"
+    },
+    "URL":"https://www.saucedemo.com/",
+    "Personal info":{
+    "First name": "Joe",
+    "Last name" : "Tom",
+        "code": 11311
+    }
+}
+ 
